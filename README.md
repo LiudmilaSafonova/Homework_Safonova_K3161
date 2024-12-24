@@ -71,10 +71,16 @@ iftop
 Этими командами видим с какого на какой адрес переданы данные, а также узнаем объем этих данных.
 
 ## Возможности
-В заключение, существует большое количество команд, которые помогают управлять ресурсами и отслеживать их. В лабораторной работе была рассмотрена лишь малая часть.
+В заключение, существует большое количество команд, которые помогают управлять ресурсами и отслеживать их. В лабораторной работе была рассмотрена лишь малая часть. Хорошая схема контроля для работы разных частей компьютера.
 ![photo_2024-12-24_20-35-12](https://github.com/user-attachments/assets/e600cfa6-f8e7-4cb4-b9b0-050467542051)
 
 
 ## Использованные источники
 1. [Документация top](https://man7.org/linux/man-pages/man1/top.1.html)
 2. [Руководство по команде free](https://man7.org/linux/man-pages/man1/free.1.html)
+3. [Документация iostat (sysstat)](https://man7.org/linux/man-pages/man5/sysstat.5.html)
+4. [Команда ss](https://www.commandlinux.com/man-page/man8/ss.8.html)
+5. [Пакет stress](https://www.geeksforgeeks.org/linux-stress-command-with-examples/)
+6. [Команда dd](https://habr.com/ru/articles/117050/)
+7. [Команда iotop](https://www.geeksforgeeks.org/iotop-command-in-linux-with-examples/)
+8. [Iperf3](https://iperf.fr/)
