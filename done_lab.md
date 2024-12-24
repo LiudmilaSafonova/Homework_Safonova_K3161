@@ -29,4 +29,4 @@ echo "------------------------" >> zombie_process.log
 
 При выполнении скрипта в файл zombie_process.log добавляется следующая запись:
 ![image](https://github.com/user-attachments/assets/a1438e5a-f594-4009-b669-a9d832df6609)
-т.е. уже есть зомби-процессы
+т.е. найден зомби-процесс с PID 1432
