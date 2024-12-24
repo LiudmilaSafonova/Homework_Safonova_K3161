@@ -26,7 +26,7 @@ fi
 echo "------------------------" >> zombie_process.log
 ```
 
-при выполнении скрипта в файл zombie_process.log добавляется следующая запись:
+
+При выполнении скрипта в файл zombie_process.log добавляется следующая запись:
 ![image](https://github.com/user-attachments/assets/a1438e5a-f594-4009-b669-a9d832df6609)
-
-
+т.е. уже есть зомби-процессы
