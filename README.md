@@ -27,6 +27,8 @@ chmod +x zombie_process_monitor.sh
 bash -c 'sleep 5 & exit'
 ```
 
+Таким образом был создан и проверен скрипт на выявление зомби-процессов.
+
 ## использованные источники
 1. [Документация top](https://man7.org/linux/man-pages/man1/top.1.html)
 2. [Руководство по команде free](https://man7.org/linux/man-pages/man1/free.1.html)
